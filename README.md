@@ -17,11 +17,11 @@ RPi.GPIO library
 3.2 Setup Steps
 Connect the relay board to the Raspberry Pi GPIO pins:
 
-Relay 1: Pin 3 /n
-Relay 2: Pin 5 /n
-Relay 3: Pin 7
-Relay 4: Pin 8
-Install required Python libraries:
+- Relay 1: Pin 3 
+- Relay 2: Pin 5 
+- Relay 3: Pin 7
+- Relay 4: Pin 8
+- Install required Python libraries:
 
  ```sh
 pip install opencv-python cvzone RPi.GPIO
