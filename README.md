@@ -1,7 +1,7 @@
 # Gesture-Controlled-Home-Automation-System
 
-Deployment Instructions
-**1 Prerequisites**
+
+**Deployment Instructions**
 
 Hardware:
 Raspberry Pi (any model)
