@@ -37,7 +37,4 @@ python Control_Device_through_finger_movement.py
 Adjust GPIO pin mappings if needed in the Python script.
 Ensure proper power supply for the relay board.
 
-**Code Repository**
-The complete code is available on GitHub: GitHub Repository Link
-(Upload the project to GitHub and replace with the actual link.)
 
