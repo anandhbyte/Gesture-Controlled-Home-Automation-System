@@ -14,7 +14,8 @@ Software:
 - OpenCV
 - CVZone
 - RPi.GPIO library
-3.2 Setup Steps
+  
+Setup Steps
 Connect the relay board to the Raspberry Pi GPIO pins:
 
 - Relay 1: Pin 3 
